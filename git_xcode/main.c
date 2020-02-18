@@ -16,5 +16,6 @@ int main(int argc, const char * argv[]) {
     printf("Hello, Earth");
     printf("Hello, Luna");
     printf("Both accepted");
+    printf("Hello! Local repository");
     return 0;
 }
